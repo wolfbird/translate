@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mamaipi2</string>
+    <string name="fanyi">翻译</string>
+    <string name="name">用户名</string>
+    <string name="mima">输入密码</string>
+    <string name="tip">输入用户名</string>
+    <string name="login">登陆</string>
+    <string name="regist">注册</string>
+</resources>
